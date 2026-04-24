@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Current Role: Data Engineer
+
 Contact details: aaronlewismann@hotmail.co.uk
 
 Experience:
